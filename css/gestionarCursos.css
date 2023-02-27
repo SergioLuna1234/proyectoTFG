@@ -1,0 +1,20 @@
+.opcion{
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #242424;
+    background-color: none;
+    border: 2px solid #242424;
+    width: 200px;
+    display: inline-block;
+    padding: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.opcion:hover{
+    color: white;
+    background-color: rgb(206, 206, 206);
+    text-decoration: none;
+}
+.container-fluid{
+    padding-top: 40px;
+}

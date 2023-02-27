@@ -1,0 +1,29 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.campo{
+    width: 300px;
+    display: inline-block;
+    margin-right: 20px;
+}
+h6{
+    display: inline-block;
+    margin-right: 20px;
+}
+.buscar{
+    border: none;
+    padding: 10px;
+    color: #323333;
+    margin-top: 10px;
+    width: 100px;
+}
+select{
+    padding: 5px;
+}
+.buscar:hover{
+    background-color: rgb(131, 131, 131);
+    color: rgb(226, 226, 226);
+}
+.comboBox{
+    background-color: grey;
+}

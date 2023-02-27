@@ -1,0 +1,38 @@
+.logo{
+  width: 50px;
+  height: 50px;
+}
+.nav-item .indice{
+  font-size: 20px;
+}
+label{
+  width: 150px;
+}
+.gt-input{
+  display: fluid;
+  height: 2em;
+  width: 200px;
+}
+.plano{
+  display: fluid;
+  width: 720px;
+  height: 480px;
+}
+.comeBack, .comeBack:hover{
+  text-align: center;
+  width: 80px;
+  margin-top: 10px;
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+  background-color: rgb(199, 199, 199);
+}
+.miSelect{
+  display: inline-block;
+  width: 120px;
+  margin-left: 10px;
+}
+*{
+  font-family: 'Roboto', sans-serif;
+}

@@ -1,0 +1,59 @@
+.clase{
+    margin-left: 40%;
+    background-color: white;
+    padding: 10px;
+    width: fit-content;
+}
+body{
+    background-color: #5794ff;
+    font-family: Arial;
+}
+table,td,th{
+border-collapse: collapse;
+  background-color: white;
+  color: #414141;
+}
+th{
+  height: 50px;
+  font-size: 18pt;
+  background-color: #4CAF50;
+  color: black;
+}
+.horas{
+    background-color: white;
+    color: black;
+    width: 140px;
+}
+table{
+  display: inline;
+  margin-left: 40px;
+}
+td{
+    padding: 10px;
+    border-right: 1px solid rgb(43, 43, 43);
+    border-bottom: 1px solid rgb(43, 43, 43);
+    width: 150px;
+    background-color: #b6b6b6;
+}
+.vacio{
+    background-color: white;
+    color: black;
+}
+th{
+    text-align: center;
+}
+.lunes,.martes,.miercoles,.jueves,.viernes{
+    background-color: white;
+}
+.horarioCursos{
+    border: none;
+}
+.miSelect{
+    padding: 5px;
+    width: 115px;
+    box-shadow: 0px 0px 20px rgb(158, 158, 158);
+    border: none;
+}
+*{
+    font-family: 'Roboto', sans-serif;
+}

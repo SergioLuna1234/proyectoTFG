@@ -1,0 +1,15 @@
+table,td,th{
+    text-align: center;
+}
+table{
+    margin-left: 23%;
+    font-size: 16pt;
+}
+.tablainformacion,.thinformacion,.tdinfo{
+    border: 1px solid #3a3b45;
+    border-collapse: collapse;
+}
+
+.thinformacion,.tdinfo{
+    padding: 10px;
+}
